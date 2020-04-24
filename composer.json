@@ -1,5 +1,10 @@
 {
-    "name": "composer config -g repo.packagist composer https://mirrors.aliyun.com/composer/",
+    "name": "sbihgu/test",
+    "description": "PHP SDK for the EOS RPC API",
+    "type": "library",
+    "keywords": ["php","eos","rpc","sdk","api","crypto","blockchain"],
+    "homepage": "https://github.com/alienzin/php-eos-rpc-sdk",
+    "license": "MIT",
     "authors": [
         {
             "name": "丨",

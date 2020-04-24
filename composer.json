@@ -1,0 +1,15 @@
+{
+    "name": "sbihgu/test",
+    "authors": [
+        {
+            "name": "丨",
+            "email": "1247639927@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "sbihgu\\": "src/"
+        }
+    }
+}

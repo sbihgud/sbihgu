@@ -1,5 +1,5 @@
 {
-    "name": "sbihgu/test",
+    "name": "composer config -g repo.packagist composer https://mirrors.aliyun.com/composer/",
     "authors": [
         {
             "name": "丨",

@@ -13,7 +13,7 @@ namespace sbihgu;
 class Index
 {
 
-    public function index()
+    public static function index()
     {
         return "this is sbihgu/test return";
     }

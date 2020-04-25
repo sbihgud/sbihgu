@@ -14,7 +14,8 @@
     "require": {},
     "autoload":{
         "psr-4": {
-            "sbihgu\\": "src/"
+            "sbihgu\\": "src/",
+            "sbihgu\\interfaces\\": "src/'"
         }
     }
 }

@@ -7,7 +7,7 @@
  * Time: 16:46
  */
 
-namespace sbihgu\interfaces;
+namespace sbihgu;
 
 interface CalculatorServiceInterface
 {

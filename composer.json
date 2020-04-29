@@ -15,7 +15,7 @@
     "autoload":{
         "psr-4": {
             "sbihgu\\": "src/",
-            "sbihgu\\interfaces\\": "src/'"
+            "sbihgu\\interfaces\\": "src/interfaces/"
         }
     }
 }
